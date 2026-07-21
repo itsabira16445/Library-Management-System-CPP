@@ -1,0 +1,18 @@
+-------------
+Book ID      :101
+Book Name    :C++ Programming
+Book Quantity:5
+Author Name  :Bjarne Stroustrup
+--------------
+-------------
+Book ID      :102
+Book Name    :Python Basics
+Book Quantity:3
+Author Name  :John Smith
+--------------
+-------------
+Book ID      :103
+Book Name    :DataBase System
+Book Quantity:2
+Author Name  :Abira
+--------------
